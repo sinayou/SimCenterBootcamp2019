@@ -1,0 +1,7 @@
+cp: cannot open ‘/home1/05361/elhaddad/NHERI/SimCenter/rWHALE/v110/WorkflowRegionalEarthquake/.git/index’ for reading: Permission denied
+ERROR: ld.so: object '/opt/apps/xalt/xalt/lib64/libxalt_init.so' from LD_PRELOAD cannot be preloaded: ignored.
+ERROR: ld.so: object '/opt/apps/xalt/xalt/lib64/libxalt_init.so' from LD_PRELOAD cannot be preloaded: ignored.
+WARNING: LAUNCHER_WORKDIR variable not set. Using current directory.
+/opt/apps/launcher/launcher-3.1/paramrun: line 171: [: -eq: unary operator expected
+/opt/apps/launcher/launcher-3.1/paramrun: line 211: [: -eq: unary operator expected
+ERROR: ld.so: object '/opt/apps/xalt/xalt/lib64/libxalt_init.so' from LD_PRELOAD cannot be preloaded: ignored.
