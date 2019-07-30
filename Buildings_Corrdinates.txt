@@ -1,0 +1,2 @@
+Building name, Latitude, Longitude
+El Centro Building, 32.794743, -115.550891
